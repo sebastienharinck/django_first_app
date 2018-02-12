@@ -1,10 +1,15 @@
+# ignore all
 *
+
+# except src
 !src/
+!src/**
+
+# ignore in src
+src/db.sqlite3
+src/django_first_app/settings.py
+src/**/__pycache__/
+
+# except others
 !.gitignore
 !requirements.txt
-
-src/django_first_app/settings.py
-**/__pycache__/
-src/db.sqlite3
-
-.idea/
