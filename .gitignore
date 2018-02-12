@@ -7,7 +7,6 @@
 
 # ignore in src
 src/db.sqlite3
-src/django_first_app/settings.py
 src/**/__pycache__/
 
 # except others
