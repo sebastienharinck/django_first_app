@@ -1,6 +1,7 @@
 *
 !src/
 !.gitignore
+!requirements.txt
 
 src/django_first_app/settings.py
 **/__pycache__/
