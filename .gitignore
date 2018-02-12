@@ -1,3 +1,7 @@
+*
+!src/
+!.gitignore
+
 src/django_first_app/settings.py
 **/__pycache__/
 src/db.sqlite3
