@@ -1,5 +1,5 @@
-*/settings.py
+src/django_first_app/settings.py
 **/__pycache__/
-db.sqlite3
+src/db.sqlite3
 
 .idea/
